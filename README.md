@@ -1,5 +1,5 @@
 # Installation Instructions
-Assuming you already have keras package installed, include extra_keras_layers in your project directory and:
+Assuming you already have keras package installed, git clone extra_keras_layers to the same directory as your .py and in python:
 
 `import extra_keras_layers`
 
